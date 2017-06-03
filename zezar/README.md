@@ -2,6 +2,7 @@
 ## Açıklama 
   Gamze bir gün annesinden para istemek için mesaj atar, fakat attığı mesaj annesine giderken şifreleme yapılır ama annesinin telefonu şifreli mesajların şifresini kıramaz ve bu sebepler gelen mesajları anlamlandıramaz. Sizin göreviniz Gamze'nin annesine mesajları okuyabilmesi için uygun programı yazmak. 
 Mesajlar Sezar şifreleme algoritması ile şifrelenmiştir; 
+
 • A -> D  
 • B -> E  
 • C -> F  
@@ -13,7 +14,9 @@ Mesajlar Sezar şifreleme algoritması ile şifrelenmiştir;
 • Y -> B  
 
   Sezar şifreleme algoritmasında şekilde görüldüğü gibi harfleri kaydırarak şifreleme yapılır. 
+  
   Daha fazla bilgi için google.com 
+  
 ## Input Format 
   Inputun ilk satırında tam sayı olarak verilecek input sayısı girilir. 
   Her input 3 satırdan oluşur. İlk satırda büyük harflerle şifreli bir metin verilir. İkinci satırda aynı uzunlukta şifreli metinin şifresinin kırılmış hali verilir. Üçüncü satırda ise şifresi kırılması istenen metin verilir. 
