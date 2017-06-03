@@ -16,7 +16,8 @@
 ````
   12.00 
   20 
-  8```
+  8````
+ 
 
 ## Örnek Output 
   Toplam hesap 15 liradır. 
