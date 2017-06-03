@@ -13,9 +13,10 @@
   "Toplam hesap TOPLAM_FİYAT liradır." Yazdırmanız beklenmektedir. TOPLAM_FİYAT yerine sonuç değişkeni gelecektir. Hesapların sonucunu en yakın tam sayıya yuvarlamanız gerekmektedir.
 
 ## Örnek Input 
+````
   12.00 
   20 
-  8 
+  8```
 
 ## Örnek Output 
   Toplam hesap 15 liradır. 
