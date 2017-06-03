@@ -7,6 +7,7 @@
 
 # Input Sınırları 
   `1 <  sayı  <  1000 
+  
   -10000 <  e < 10000, e dosyanın boyutunu temsil eder.  `
 
 # Output Format 
