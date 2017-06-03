@@ -1,4 +1,4 @@
-#ZIPZIP 
+# ZIPZIP 
 ## Açıklama 
   Baskın ve Burak ın canı sıkılmıştır. Hemen interneti açıp kendilerine oyunaramaya başlarlar. Baskın aramaktan vazgeçip kendi oyununu yapmaya karar verir. Fakat Baskın aklında ki oyunu koda dökemez. Baskın ın oyununda bazı kurallar vardır. Kendisi iki tane çekirge varsaymıştır. İlk çekirge x1 noktasından başlayarak v1 mesafesinde zıplayacaktır. İkinci çekirge ise x2 noktasından başlayıp v2 mesafesinde zıplayacaktır. 
 ## NOT:  Çekirgeler aynı sayıda zıplamalıdır! 
