@@ -6,9 +6,9 @@
   İlk satır dosya sayısını, ikinci satır ise dosyaların boyutlarını vermektedir. 
 
 # Input Sınırları 
-  `1 <  sayı  <  1000 
+  ```1 <  sayı  <  1000 
   
-  -10000 <  e < 10000, e dosyanın boyutunu temsil eder.  `
+  -10000 <  e < 10000, e dosyanın boyutunu temsil eder.  ```
 
 # Output Format 
   Her bir satırda bir adım olmak üzere dosyaları küçükten büyüğe sıralayın. 
