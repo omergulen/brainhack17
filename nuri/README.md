@@ -14,8 +14,9 @@
   Her bir satırda bir adım olmak üzere dosyaları küçükten büyüğe sıralayın. 
 
 # Örnek Input 
-  `5 
-  2 4 6 8 3 `
+  ````
+  5 
+  2 4 6 8 3 ````
 
 # Örnek Output 
     2 4 6 8 8 
