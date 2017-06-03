@@ -9,10 +9,12 @@
   Sonucun yazdırılıması yeterli olacaktır. 
 
 ## Örnek Input 
+````
   3 
   11 2 4 
   4 5 6 
   10 8 –12 
+  ````
 
 ## Örnek Output 
   15 
