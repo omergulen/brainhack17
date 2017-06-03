@@ -32,7 +32,8 @@ Mesajlar Sezar şifreleme algoritması ile şifrelenmiştir;
   ZH_KLG_WKHP_ZHOO 
    NYXUOI_UYXQ_WECD_XYD_UXYG  
   DONKEY_KONG_MUST_NOT_KNOW  
-  NU_WSCCOC_LKXKXKC ````
+  NU_WSCCOC_LKXKXKC 
+  ````
 
 ## Örnek Output 
 ````
