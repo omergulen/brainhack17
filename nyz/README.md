@@ -1,4 +1,4 @@
-#Niyazi'nin Asalları 
+# Niyazi'nin Asalları 
 ## Açıklama 
   Niyazi asal sayıları çok sevmektedir ve her sayı asal olsun istemektedir fakat bunu yapamayacağının da farkındadır. Bu sebeple sayıları asal yapmak yerine sayıların asal bölenlerini bulmaya başlamıştır fakat işler oldukça yavaş ilerler. Bu sebeple ona yardım edecek bir program bulması gerekir. Sizin yapmanız gereken verilen sayının asal çarpanlarının sayısını bulan bir program yazmak. 
 
