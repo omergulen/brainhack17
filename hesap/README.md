@@ -21,7 +21,7 @@
  
 
 ## Örnek Output 
-  Toplam hesap 15 liradır. 
+  Toplam hesap 15 liradir. 
   
 ## Örnek Açıklaması 
   Ürün ücreti 12 lira, bahşiş yüzdesi 20, vergi yüzdesi 8. 
