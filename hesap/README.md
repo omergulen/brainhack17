@@ -10,7 +10,7 @@
 Üçüncü satırda ise vergi yüzdesi verilir. 
 
 ## Output Format 
-  "Toplam hesap TOPLAM_FİYAT liradır." Yazdırmanız beklenmektedir. TOPLAM_FİYAT yerine sonuç değişkeni gelecektir. Hesaplamanın sonucunu en yakın alt tam sayıya yuvarlamanız beklenmektedir. 
+  "Toplam hesap TOPLAM_FİYAT liradır." Yazdırmanız beklenmektedir. TOPLAM_FİYAT yerine sonuç değişkeni gelecektir. Hesapların sonucunu en yakın tam sayıya yuvarlamanız gerekmektedir.
 
 ## Örnek Input 
   12.00 
@@ -26,4 +26,4 @@
   12 x 20 /100 =  = 2.4 -> bahşiş 
   12 x 8 / 100 = 0.96 -> vergi 
   TOPLAM_HESAP = Ürün ücreti + bahşiş + vergi = 12 + 2.4 + 0.96 = 15.36 
-  TOPLAM_HESAP' ı en yakın alt tamsayıya yuvarla -> 15 
+  TOPLAM_HESAP' ı en yakın tamsayıya yuvarla -> 15 
